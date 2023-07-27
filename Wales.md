@@ -1,4 +1,2 @@
-- Sheep
-- Mountains
-- Welsh
-- Dragons
+- Glyder Fawr
+- Yr Wyddfa Fan Breicheiniog
